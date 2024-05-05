@@ -1,0 +1,9 @@
+.vscode
+.vscode-test
+test
+css
+node_modules
+test
+webview
+.vscode-test.mjs
+.eslintrc.json
