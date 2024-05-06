@@ -7,3 +7,4 @@ test
 webview
 .vscode-test.mjs
 .eslintrc.json
+vsc-extension-quickstart.md

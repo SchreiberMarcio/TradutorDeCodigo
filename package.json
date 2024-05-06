@@ -1,7 +1,7 @@
 {
   "name": "es6",
-  "displayName": "",
-  "description": "",
+  "displayName": "Código Tradutor",
+  "description": "Traduza tags e operadores em Js e Ts",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.88.0"

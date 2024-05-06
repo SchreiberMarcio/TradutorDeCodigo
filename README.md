@@ -1,12 +1,20 @@
-# Extensão de Tradução ES6 v1.0.0
+# Extensão de Tradução de Código v1.0.0
 
 Esta é uma extensão para Visual Studio Code que oferece tradução para tags e símbolos comuns em JavaScript e TypeScript.
+
+## Contexto:
+
+Esta extenção foi criada para ajudar estudantes (como eu) a entender os símbolos e tags usadas em Javascript e typeScript.
+Muitas vezes quando iniciantes em programação tem seu primeiro contato com linguagens de programação baseadas em tags,
+pode ser um pouco desafiador pois geralmente as tags usam o inglês como base.
+
+Esta extenção está em desemvolvimento para ajudar os estudantes que tem pouco ou nenhum conhecimento do Inglês.
 
 ## Instalação
 
 1. Abra o Visual Studio Code.
 2. Vá para a barra lateral esquerda e clique no ícone de extensões (ou pressione `Ctrl+Shift+X`).
-3. Pesquise por "Extensão de Tradução ES6".
+3. Pesquise por "Código Tradutor".
 4. Clique em "Instalar" para adicionar a extensão ao seu editor.
 
 ## Uso
