@@ -12,11 +12,16 @@ Esta é uma extensão para Visual Studio Code que oferece tradução para tags e
 ## Uso
 
 - Com a extensão instalada, abra um arquivo JavaScript ou TypeScript no Visual Studio Code.
+<img src="img/image (2).png" alt="primeiro passo">
 - Selecione o código que deseja traduzir.
+<img src="img/image (3).png" alt="segundo passo">
 - Pressione `Ctrl+Shift+P` para abrir o menu de comandos.
-- Digite "Traduzir" e selecione a opção correspondente para traduzir o código selecionado.
+<img src="img/image (4).png" alt="terceiro passo">
+- Digite "Traduza" e selecione a opção correspondente para traduzir o código selecionado.
+<img src="img/image (5).png" alt="quarto passo">
+- Pronto seu código foi traduzido.
+<img src="img/image (6).png" alt="segundo passo">
 
-![Exemplo de Uso](img/exemplo-uso.png)
 
 ## Recursos
 
@@ -43,4 +48,4 @@ Para relatar problemas ou enviar sugestões, entre em contato pelo meu email: [s
 
 ## GitHub
 
-Você pode encontrar o código-fonte desta extensão no GitHub: [NomeDoUsuario/ExtensaoTraducaoES6](https://github.com/NomeDoUsuario/ExtensaoTraducaoES6)
+Você pode encontrar o código-fonte desta extensão no GitHub: [SchreiberMarcio/TradutorDeCodigo](https://github.com/SchreiberMarcio/TradutorDeCodigo)
