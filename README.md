@@ -1,3 +1,7 @@
+#  Atualmente esta extenção está rodando apenas localmente.
+
+Para rodar localmente será necessário isntalar as biliotecas 'vscode' e 'path'.
+
 # Extensão de Tradução de Código v1.0.0
 
 Esta é uma extensão para Visual Studio Code que oferece tradução para tags e símbolos comuns em JavaScript e TypeScript.
