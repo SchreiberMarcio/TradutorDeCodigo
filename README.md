@@ -1,6 +1,6 @@
 #  Atualmente esta extenção está rodando apenas localmente.
 
-Para rodar localmente será necessário isntalar as biliotecas 'vscode' e 'path'.
+Para rodar localmente será necessário instalar as biliotecas 'vscode' e 'path'.
 
 # Extensão de Tradução de Código v1.0.0
 
